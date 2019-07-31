@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nassoreli/nassoreli1/issues"
   },
-  "homepage": "https://github.com/nassoreli/nassoreli1#readme"
+  "homepage": "https://github.com/nassoreli/nassoreli1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
